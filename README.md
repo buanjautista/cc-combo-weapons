@@ -1,5 +1,6 @@
 # Combo Weapons
 
+A mod that allows equipment items to combo with other equips for extra hidden stats. 
 This mod requires [Item Api](https://github.com/CCDirectLink/item-api/).
 
 ## Usage:
