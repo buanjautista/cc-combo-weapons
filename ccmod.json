@@ -1,0 +1,13 @@
+{
+	"id": "cc-combo-weapons",
+	"version": "0.1.0",
+	"title": "Combo Weapons",
+	"description": "Allows adding equipment that can combo with other equipment.",
+	"repository": "https://github.com/buanjautista/cc-combo-weapons",
+	"tags": ["library"],
+	"authors": "buanjautista",
+	"dependencies": {
+		"item-api": "^0.4.0"
+	},
+	"prestart": "mod.js"
+}
